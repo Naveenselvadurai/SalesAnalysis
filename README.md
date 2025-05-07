@@ -12,6 +12,15 @@
    git clone https://github.com/Naveenselvadurai/SalesAnalysis
    cd SalesAnalysis
 
+2. Create Database in MongoDb as Sales
+
+3. Set up MongoDB connection string in appsettings.json:
+   "SaleDatabaseSettings": {
+  "ConnectionString": "mongodb://localhost:27017",
+  "DatabaseName": "Sales",
+  "SalesCollectionName": "Sales"
+}
+
 ## Table
    | Method | Route                      | Request Body (example)                                        | Sample Response (example)      | Description                              |
 | ------ | -------------------------- | ------------------------------------------------------------- | ------------------------------ | ---------------------------------------- |
