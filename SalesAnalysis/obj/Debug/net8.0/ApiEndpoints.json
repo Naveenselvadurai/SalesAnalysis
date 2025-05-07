@@ -1,0 +1,39 @@
+[
+  {
+    "ContainingType": "SalesAnalysis.Controllers.SalesController",
+    "Method": "GetTotalRevenue",
+    "RelativePath": "api/sales/total-revenue",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "startDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "endDate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SalesAnalysis.Controllers.SalesController",
+    "Method": "UploadCsv",
+    "RelativePath": "api/sales/upload-csv",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "File",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

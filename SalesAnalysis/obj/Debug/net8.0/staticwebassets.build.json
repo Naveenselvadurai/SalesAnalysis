@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AjzRY0LxYjqyVhK11IKwTE1oASpDmN57nxEllSBEK3Q=",
+  "Source": "SalesAnalysis",
+  "BasePath": "_content/SalesAnalysis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
