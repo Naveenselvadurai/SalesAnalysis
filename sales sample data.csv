@@ -1,0 +1,7 @@
+order_id,product_id,customer_id,product_name,category,region,date_of_sale,quantity_sold,unit_price,discount,shipping_cost,payment_method,customer_name,customer_email,customer_address
+1001,P123,C456,UltraBoost Running Shoes,Shoes,North America,2024-05-20T00:00:00.000+00:00,2,180,0.1,10,Credit Card,John Smith,johnsmith@email.com,"123 Main St, Anytown, CA 12345"
+1002,P456,C789,iPhone 15 Pro,Electronics,Europe,2024-06-20T00:00:00.000+00:01,1,1299,0,15,PayPal,Emily Davis,emilydavis@email.com,"456 Elm St, Otherville, NY 54321"
+1003,P789,C456,Levi's 501 Jeans,Clothing,Asia,2024-07-20T00:00:00.000+00:02,3,59.99,0.2,5,Debit Card,John Smith,johnsmith@email.com,"123 Main St, Anytown, CA 12345"
+1004,P123,C101,UltraBoost Running Shoes,Shoes,South America,2024-08-20T00:00:00.000+00:03,1,180,0,8,Credit Card,Sarah Johnson,sarahjohnson@email.com,"789 Oak St, New City, TX 75024"
+1005,P234,C789,Sony WH-1000XM5 Headphones,Electronics,North America,2024-09-20T00:00:00.000+00:04,1,349.99,0.15,12,PayPal,Emily Davis,emilydavis@email.com,"456 Elm St, Otherville, NY 54321"
+1006,P456,C101,iPhone 15 Pro,Electronics,Asia,2024-10-20T00:00:00.000+00:05,2,1299,0.05,20,Debit Card,Sarah Johnson,sarahjohnson@email.com,"789 Oak St, New City, TX 75024"
